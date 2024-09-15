@@ -1,1 +1,1 @@
-# Simple readme for vaani
+# Vaani - GenAi chatbot
